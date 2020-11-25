@@ -1,15 +1,15 @@
-# TODO:name-of-path
+# A11y
 
-> TODO:description
+> A path to learn more about accessibility
 
 ## Owner
 
-TODO:owner
+Dominik
 
 ## Content
 
-- [Step 1 - Name of step](step1/)
-- [Step 2 - Name of step](step2/)
-- [Step 3 - Name of step](step3/)
+- [Step 1 - What is a11y](step1/)
+- [Step 2 - Make accessible](step2/)
+- [Step 3 - Improve a11y](step3/)
 
 ## Graduates

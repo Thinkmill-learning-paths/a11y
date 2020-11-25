@@ -1,5 +1,5 @@
 {
-	"name": "TODO:name-of-path",
+	"name": "a11y",
 	"description": "TODO:description",
 	"version": "1.0.0",
 	"private": true,
@@ -7,15 +7,15 @@
 	"contributors": [],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Thinkmill-learning-paths/TODO:repo-name.git"
+		"url": "git://github.com/Thinkmill-learning-paths/a11y.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/issues"
+		"url": "https://github.com/Thinkmill-learning-paths/a11y/issues"
 	},
 	"licenses": [
 		{
 			"type": "GPL-3.0",
-			"url": "https://github.com/Thinkmill-learning-paths/TODO:repo-name/blob/main/LICENSE"
+			"url": "https://github.com/Thinkmill-learning-paths/a11y/blob/main/LICENSE"
 		}
 	],
 	"license": "GPL-3.0",
