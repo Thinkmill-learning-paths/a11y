@@ -10,6 +10,5 @@ Dominik
 
 - [Step 1 - What is a11y](step1/)
 - [Step 2 - Make accessible](step2/)
-- [Step 3 - Improve a11y](step3/)
 
 ## Graduates
